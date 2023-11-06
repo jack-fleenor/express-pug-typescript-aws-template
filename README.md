@@ -1,6 +1,4 @@
-# express-typescript-aws-template
-express-typescript-aws-template
-
+# typescript-api-example
 This is a sample project written in TypeScript that serves as an example repository for API projects. It uses popular libraries and technologies such as Jest, Pug, Express, Zod, Mongoose, and MongoDB. Whether you're new to API development or looking for a TypeScript-based reference, this repository can help you get started.
 
 ## Getting Started
