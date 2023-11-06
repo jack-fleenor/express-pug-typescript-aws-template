@@ -36,6 +36,7 @@ The project structure is organized as follows:
 - - `models/`: Mongoose models for MongoDB.
 - - `views/`: Pug templates for rendering HTML pages (if applicable).
 - - `controllers/`: Controllers for handling API routes.
+- - `types/`: TypeScript type definitions.
 - - `shared/`: Additional services, helpers, and business logic.
 - - `index.ts`: The entry point of the Express application.
 - - `tests/`: Contains Jest tests for the API routes and services.
