@@ -1,9 +1,9 @@
 import path from 'path';
-import express from 'express';
 import dotenv from 'dotenv';
-import { indexController } from './controllers/index.js';
-import { fileURLToPath } from 'url';
+import express from 'express';
 import { dirname } from 'path';
+import { fileURLToPath } from 'url';
+import { indexController } from './controllers/index.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
