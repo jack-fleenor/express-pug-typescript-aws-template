@@ -1,4 +1,4 @@
-# typescript-api-example
+# Typescript API Example
 This is a sample project written in TypeScript that serves as an example repository for API projects. It uses popular libraries and technologies such as Jest, Pug, Express, Zod, Mongoose, and MongoDB. Whether you're new to API development or looking for a TypeScript-based reference, this repository can help you get started.
 
 ## Getting Started
@@ -37,7 +37,6 @@ The project structure is organized as follows:
 - - `views/`: Pug templates for rendering HTML pages (if applicable).
 - - `controllers/`: Controllers for handling API routes.
 - - `shared/`: Additional services, helpers, and business logic.
-- - `routes/`: Express route definitions.
 - - `index.ts`: The entry point of the Express application.
 - - `tests/`: Contains Jest tests for the API routes and services.
 - `.env.example`: Example environment variable configuration.
@@ -63,11 +62,10 @@ npm test
 ## Acknowledgments
 This project is built upon various open-source libraries and tools. Special thanks to the authors and maintainers of the following projects:
 
-(Jest)[]
-(Pug)[]
-(Express)[]
-(Zod)[]
-(Mongoose)[]
-(MongoDB)[]
-
-(Simple TypeScript Starter)[https://github.com/stemmlerjs/simple-typescript-starter/tree/master]
+- [Jest](https://jestjs.io/)
+- [Pug](https://pugjs.org/api/getting-started.html)
+- [Express](https://expressjs.com/)
+- [Zod](https://zod.dev/)
+- [Mongoose](https://mongoosejs.com/docs/)
+- [MongoDB](https://www.mongodb.com/docs/manual/reference/program/mongod/)
+- [Simple TypeScript Starter](https://github.com/stemmlerjs/simple-typescript-starter/tree/master)
