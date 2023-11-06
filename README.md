@@ -9,7 +9,7 @@ To get started with this project, follow the steps below:
 ### Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/typescript-api-example.git
+git clone https://github.com/jack-fleenor/typescript-api-example.git
 ```
 
 ### Install the project dependencies using npm or yarn:
